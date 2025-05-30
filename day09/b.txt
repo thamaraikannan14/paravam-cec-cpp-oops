@@ -1,0 +1,1 @@
+written in the file using another user-deginied object. fout

@@ -1,0 +1,21 @@
+Car Details: 
+ carBrand: porsche
+ carModel: 911
+ carVariant: petrol
+ launchYear: 2024
+Price: Rs.223330000
+Features: 
+	1. stylish
+	2. 2 seater
+<--------------------------------------------------------------------------->
+Car Details: 
+ carBrand: Honda
+ carModel: Civic
+ carVariant:  petrol
+ launchYear: 2022
+Price: Rs.3000000
+Features: 
+	1. a
+	2. d
+	3. 2
+<--------------------------------------------------------------------------->

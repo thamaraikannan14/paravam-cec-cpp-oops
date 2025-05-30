@@ -1,0 +1,5 @@
+ teacher details are as follows: 
+ name: kannan
+ age: 18
+ branch: aiml
+ experience: 1
